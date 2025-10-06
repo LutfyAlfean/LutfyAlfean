@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Red Hat, Pentest, Websecurity**
 
-💬 Ask me about **Pentesting, SecurityWeb, BlueTeam... or anything [here](https://github.com/Alfiansyah78/Alfiansyah78/issues)**
+💬 Ask me about **Pentesting, SecurityWeb, BlueTeam... or anything [here](https://medium.com/@alex-000-bird)**
 
 ⚡ Fun fact **Game NITE4, Game Hacking**
 
