@@ -40,12 +40,7 @@
     <img src="https://skillicons.dev/icons?i=linux,mysql,php,prometheus,kali,redhat" /> <br>
 </div>
 </br>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LutfyAlfean&show_icons=true" />
-  <br/>
-</div>
-</br>
+
+
 
 
